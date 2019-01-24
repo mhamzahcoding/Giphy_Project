@@ -1,1 +1,1 @@
-# Giphy_Project
+Giphy API Project
