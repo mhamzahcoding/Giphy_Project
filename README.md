@@ -14,3 +14,9 @@ Objective of the Application:
 
   There is a preloaded array of topics 
   ![TopicsArray](https://github.com/mhamzahhanif/Giphy_Project/blob/master/assets/images/topicsArray.PNG)
+  
+  The array is also gets populated when user searches for any gif and sticks the searched gif name in front of the preloaded array of       topics.
+  
+  ScreenShot of the working application.
+  
+  ![workingApp](https://github.com/mhamzahhanif/Giphy_Project/blob/master/assets/images/workingApp.PNG)
