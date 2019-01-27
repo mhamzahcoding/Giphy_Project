@@ -13,4 +13,4 @@ Technologies used:
 Objective of the Application:
 
   There is a preloaded array of topics 
-  ![Topics Array](https://github.com/mhamzahhanif/Giphy_Project/blob/master/assets/images/topicsArray.PNG)
+  ![TopicsArray](https://github.com/mhamzahhanif/Giphy_Project/blob/master/assets/images/topicsArray.PNG)
